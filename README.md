@@ -1,2 +1,2 @@
 # BugFree-Code-Editor-
-This website is an online code editor that supports writing, editing, and running code in multiple languages. Built with React and Vercel, it features a clean interface, real-time code execution, and cloud-based deployment for seamless coding experiences.
+A lightweight and powerful code editor for developers of all levels. It supports all major languages with syntax highlighting, auto-completion, debugging, and themes. With a clean interface and fast performance, it boosts productivity, creativity, and seamless coding across languages
